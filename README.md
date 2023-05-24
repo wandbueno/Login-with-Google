@@ -1,5 +1,7 @@
 # Login com Google usando Firebase em React.js
 
+![Firebase React](https://example.com/path/to/image.png)
+
 [![Licença](https://img.shields.io/badge/Licença-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
 ## Descrição
