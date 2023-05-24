@@ -1,6 +1,7 @@
 # Login com Google usando Firebase em React.js
 
-![Firebase React](https://github.com/wandbueno/Login-with-Google/blob/main/src/assets/page_login.PNG)
+![pagina do login](https://github.com/wandbueno/Login-with-Google/blob/main/src/assets/page_login.PNG)
+![pagina do perfil](https://github.com/wandbueno/Login-with-Google/blob/main/src/assets/page_profile.PNG)
 
 [![Licença](https://img.shields.io/badge/Licença-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
